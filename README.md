@@ -62,3 +62,7 @@ Links o enlaces:
 Imagenes:
 
 ![Programación](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/01/Programa-con-R-scaled.jpg)
+
+
+**Para una lista de órdenes básicas de Git, por favor revisa:**
+[Ordenes básicas de Git](https://github.com/pablomrtnz/pablomrtz/blob/main/git.md)
